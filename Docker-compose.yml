@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 version: "3"    
+=======
+version: "3"
+    
+>>>>>>> 73bdbfaa4f1d246c977d8f0cdd1b08b0bb0f266d
 services:
   db:
     image: mysql:5.7
