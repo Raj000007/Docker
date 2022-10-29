@@ -7,4 +7,4 @@
     RUN wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.68/bin/apache-tomcat-9.0.68.tar.gz
     RUN tar -xf apache-tomcat-9.0.67.tar.gz
     RUN yum install -y java
-    RUN sh apache-tomcat-9.0.67/bin/startup.sh
+    RUN sh apache-tomcat-9.0.68/bin/startup.sh
